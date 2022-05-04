@@ -22,3 +22,6 @@ Then it starts measuring frequency and printing corresponding notes names with c
 New notes are printed only when frequency changes.
 
 To check if chosen string is correctly tuned you need to play it and compare output with corresponding note.
+
+## License
+[license file](./LICENSE)
